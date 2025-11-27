@@ -1,10 +1,9 @@
 # Inpage-AI-textsummarizer
-In-Page One-Click AI Summariser: 
-In-Page One-Click AI Summariser is a browser-integrated Python application that generates instant summaries of highlighted text on any webpage.
+In-Page One-Click AI Summariser: In-Page One-Click AI Summariser is a browser-integrated Python application that generates instant summaries of highlighted text on any webpage.
 It uses the Hugging Face Transformers Inference API with the sshleifer/distilbart-cnn-12-6 model to produce concise, human-readable summaries in a single click.
 
 # Features
- One-Click Summarization — Select any text on a webpage and instantly get a short, clear summary.
+ One-Click Summarization — Select any text on a webpage and instantly get a short, clear summary.  
  Real-Time AI Processing — Powered by Hugging Face’s distilbart-cnn-12-6 summarization model.
  Lightweight Integration — Works directly in the browser with minimal setup.
  Python-Based Backend — Handles API requests and serves summaries quickly.
