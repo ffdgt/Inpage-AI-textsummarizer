@@ -32,3 +32,8 @@ It uses the Hugging Face Transformers Inference API with the `sshleifer/distilba
 ```bash
 git clone [https://github.com/ffdgt/inpage-ai-summariser.git](https://github.com/ffdgt/inpage-ai-summariser.git)
 cd inpage-ai-summariser
+
+### 2. Create virtual Environment
+```bash
+python -m venv venv
+
